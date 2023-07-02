@@ -1,8 +1,8 @@
 # Python
 
-## Studying the patterns that determine the success of games and gaming platforms
+## Studying the patterns that determine the success of games and gaming platforms 🎮
 
-[Gaming platforms](link)
+[Gaming platforms](https://github.com/adwise1990/portfolio_files/blob/main/gaming_platforms_en.ipynb)
 
 Description: Using historical data on sales of computer games, user and expert ratings, genres and platforms, identify patterns that determine the success of a game
 
