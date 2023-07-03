@@ -13,9 +13,9 @@ hypotheses: the average user ratings of the Xbox One and PC platforms are the sa
 **Skills and tools:** pandas, numpy, matplotlib, data preprocessing, exploratory data analysis, descriptive statistics, testing of statistical hypotheses
 
 
-## Analysis of user behavior in a mobile application
+## Analysis of user behavior in a mobile application 📱
 
-[A|A|B Testing](https://github.com/adwise1990/portfolio_files/blob/main/aab-testing.ipynb) 📱
+[A|A|B Testing](https://github.com/adwise1990/portfolio_files/blob/main/aab-testing.ipynb) 
 
 **Description:** Analyze the sales funnel and evaluate the results of A/A/B testing based on data from the use of a mobile application for selling food products
 
