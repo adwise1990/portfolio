@@ -24,4 +24,12 @@ In this project, I studied the principles of event analytics. I built a sales fu
 **Skills and tools:** A/B testing, Python, pandas, matplotlib, Seaborn, Plotly, event analytics, product metrics, testing of statistical hypotheses, data visualization
 
 
+## Evaluate A/B test results (Business decision making) 🛒
 
+[Evaluate A/B test results](https://github.com/adwise1990/portfolio_files/blob/main/AB_decision_making.ipynb)
+
+**Description:** Using the data of the online store, prioritize hypotheses, evaluate the results of A / B testing using various methods
+
+Analyzed the results of the A/B test, built graphs of cumulative revenue, average check, conversion by groups, and then calculated the statistical significance of differences in conversions and average checks for raw and cleaned data. Based on the analysis, I decided that it was not advisable to continue the test.
+
+**Skills and tools:** Python, pandas, matplotlib, scipy, A/B testing, testing of statistical hypotheses
