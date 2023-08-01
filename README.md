@@ -24,7 +24,7 @@ In this project, I studied the principles of event analytics. I built a sales fu
 **Skills and tools:** A/B testing, Python, pandas, matplotlib, Seaborn, Plotly, event analytics, product metrics, testing of statistical hypotheses, data visualization
 
 
-## Evaluate A/B test results (Business decision making) 🛒
+## Evaluate A/B test results (Business decision making) 🧪
 
 [Evaluate A/B test results](https://github.com/adwise1990/portfolio_files/blob/main/AB_decision_making.ipynb)
 
@@ -33,3 +33,24 @@ In this project, I studied the principles of event analytics. I built a sales fu
 Analyzed the results of the A/B test, built graphs of cumulative revenue, average check, conversion by groups, and then calculated the statistical significance of differences in conversions and average checks for raw and cleaned data. Based on the analysis, I decided that it was not advisable to continue the test.
 
 **Skills and tools:** Python, pandas, matplotlib, scipy, A/B testing, testing of statistical hypotheses
+
+
+## Analysis of the product range [E-commerce]. ABC-analysis. 🛒
+
+[ABC-analysis](https://github.com/adwise1990/portfolio_files/blob/main/ABC_analysis.ipynb)
+
+**Description:** Using sales data from e-commerce store analyzed the trade assortment, conducted product categorization, selected the main and additional assortment (via ABC-analysis). 
+
+
+**Skills and tools:** Python, pandas, matplotlib, ABC-analysis, plotly, MapTree
+
+
+# SQL
+
+## Preliminary analysis of DB with data on books 📚
+
+[DB preliminary analysis](https://github.com/adwise1990/portfolio_files/blob/main/SQL.ipynb)
+
+**Description:** Preliminary analysis of database with data on book reviews and ratings. Collecting different information on publishing houses, authors and user reviews using joints and other SQL functions.
+
+**Skills and tools:** SQL, Data analysis and transformation
